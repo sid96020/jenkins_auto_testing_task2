@@ -1,0 +1,1 @@
+# jenkins_auto_testing_task2
