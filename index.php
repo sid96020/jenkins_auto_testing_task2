@@ -1,3 +1,3 @@
 <?php
-print("hello linux world")
+print("hello linux world"
 ?>
